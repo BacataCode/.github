@@ -3,7 +3,7 @@
 ![Banner](https://img.shields.io/badge/Status-Available_for_Projects-brightgreen?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Focus-High_Quality_UI/UX-blue?style=for-the-badge)
 
-Bienvenidos a **BacataCode**. Somos un estudio de desarrollo especializado en la creación de soluciones digitales a medida. Nuestra filosofía se basa en la convergencia entre arquitecturas robustas y experiencias de usuario excepcionales.
+Bienvenidos a **BacataCode**. Somos un equipo de desarrollo especializado en la creación de soluciones digitales a medida. Nuestra filosofía se basa en la convergencia entre arquitecturas robustas y experiencias de usuario excepcionales.
 
 ---
 
