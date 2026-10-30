@@ -1,4 +1,4 @@
-# BacataCode | Software Software Development
+# Bacata Code | Software Solutions
 
 ![Banner](https://img.shields.io/badge/Status-Available_for_Projects-brightgreen?style=for-the-badge)
 ![Tech](https://img.shields.io/badge/Focus-High_Quality_UI/UX-blue?style=for-the-badge)
